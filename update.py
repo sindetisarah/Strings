@@ -1,3 +1,3 @@
-var1 ="Hello World!"
+greeting ="Hello World!"
 updateString=input("Updated String:")
-print(var1[:6]+updateString)
+print(greeting[:6]+updateString)
